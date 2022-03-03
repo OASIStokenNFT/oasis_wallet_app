@@ -11,7 +11,7 @@ Such approach enables the wallet to operate anywhere and remain censorship-resis
 
 Wallet to wallet token trading is the most secure way to trade ERC20 tokens directly from your Ethereum wallet.
 
-Trading cryptocurrencies doesn't have to mean losing custody. Use UDEX to maintain control of your ERC20 tokens while trading directly from your wallet. Trade when you want, where you want, without a middleman.
+Trading cryptocurrencies doesn't have to mean losing custody. Use OASIS Wallet to maintain control of your ERC20 tokens while trading directly from your wallet. Trade when you want, where you want, without a middleman.
 
 
 ## Advantages
